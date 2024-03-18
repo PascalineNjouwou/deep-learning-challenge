@@ -19,8 +19,12 @@ Despite exhaustive efforts to surpass the 75% accuracy benchmark, our models hav
 
 ## Recommendations for Further Investigation:
 •	Alternative Modeling Techniques: Exploring other machine learning methodologies, such as logistic regression or random forest classifiers, might offer more simplicity or feature interaction insights that could enhance predictive accuracy.
+
 •	Feature Engineering and Selection: A deeper dive into the dataset to uncover more nuanced relationships or overlooked features could prove beneficial. Advanced techniques like principal component analysis (PCA) might reveal hidden patterns or reduce dimensionality for more effective modeling.
+
 •	Hybrid Models: Combining the strengths of different models through ensemble methods could leverage their collective insights, potentially improving prediction accuracy beyond what standalone models achieve.
+
 Visualizations and Comparative Analysis: Future iterations of this report will benefit from including detailed charts and tables that compare model performances, feature importances, and learning curves across epochs. Such visual aids not only elucidate the modeling process but also provide a clear basis for strategic adjustments and improvements.
+
 In summary, while the quest to refine Alphabet Soup's funding prediction model continues, the insights gained lay a strong foundation for future exploration and success.
 
